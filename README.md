@@ -17,5 +17,3 @@ Vexstate is a high-performance FiveM Roleplay ecosystem designed from the ground
 We’re not just another “RP server”—we’re a fully customized universe powered by clean code, beautiful UI, and serious attention to detail.
 
 Our goal? To give players, developers, and content creators a rich, fluid experience that’s fast, unique, and never boring.
-
-⸻
