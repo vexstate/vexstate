@@ -146,7 +146,7 @@ No whitelist? No stress. We support both public and private servers with unique 
 Have a question, proposal, or issue?
 	•	💬 Discord Support: Use #help-center or open a ticket
 	•	🖥️ Website: vexstate.com
-	•	📧 Email: contact@vexstate.com (business inquiries only)
+	•	📧 Email: check discord server for more info! (business inquiries only)
 
 ---
 
