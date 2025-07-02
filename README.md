@@ -23,3 +23,6 @@ Our goal? To give players, developers, and content creators a rich, fluid experi
 - Vexstate Terms & Conditions: [View document](TERMS.md)
 - Vexstate Privacy Policy: [View document](POLICY.md)
 - About Vexstate Launcher: [Read more](LAUNCHER.md)
+
+![](https://github-readme-stats.vercel.app/api?username=vexstate&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vexstate&theme=dark&hide_border=false)<br/>
