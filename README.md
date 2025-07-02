@@ -19,10 +19,10 @@ Our goal? To give players, developers, and content creators a rich, fluid experi
 # Full Documentation
 > Date of last update: 14.06.2025
 
-- About Vexstate: [View document](MOREINFO.md)
-- About Company: [Read more](ABOUT.md)
-- Vexstate Terms & Conditions: [View document](TERMS.md)
-- Vexstate Privacy Policy: [View document](POLICY.md)
-- About Vexstate Launcher: [Read more](LAUNCHER.md)
+- _About Vexstate_: [View document](MOREINFO.md)
+- _About Company_: [Read more](ABOUT.md)
+- _Vexstate Terms & Conditions_: [View document](TERMS.md)
+- _Vexstate Privacy Policy_: [View document](POLICY.md)
+- _About Vexstate Launcher_: [Read more](LAUNCHER.md)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vexstate&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
