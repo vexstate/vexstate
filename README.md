@@ -24,5 +24,4 @@ Our goal? To give players, developers, and content creators a rich, fluid experi
 - Vexstate Privacy Policy: [View document](POLICY.md)
 - About Vexstate Launcher: [Read more](LAUNCHER.md)
 
-![](https://github-readme-stats.vercel.app/api?username=vexstate&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vexstate&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vexstate&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
