@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>💠 Vexstate RP | FiveM Roleplay Server</h1>
+  <h1>💠 Vexstate | FiveM Roleplay Server</h1>
 </div>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=vexstate&label=Profile%20views&color=0e75b6&style=flat" alt="vexstate" /></p>
